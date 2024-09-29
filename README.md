@@ -4,4 +4,4 @@ The sprites in the game are instantiated from Pygame's MySprite class. I built f
 is kept and incremented as they dodge flames. If they hit a flame, the dragon catches up and they lose.
 
 This is a fairly simple implementation of OOP made on a tight timeframe. In the future, I would look into adding levels to the game and sharpening up the 
-graphics.
+graphics. Also, I would like to work on a way to jump and crouch simultaneously.
